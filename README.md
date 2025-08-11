@@ -1,6 +1,6 @@
 # Hi, I'm Arjun Lakhanpal 👋
 
-🎓 **CS + Applied Mathematics @ UC Berkeley** (B.A., Expected May 2027)  
+🎓 **B.A. Computer Science & Applied Mathematics @ UC Berkeley** (Expected May 2027)  
 💻 **Software Engineer | AI & Cloud Enthusiast**  
 
 I build intelligent, scalable systems at the intersection of **machine learning**, **computer vision**, and **cloud infrastructure**. My work spans from real-time computer vision deployments at Amazon to deep learning pipelines for NASA-affiliated space missions, climate analytics platforms, and AI productivity tools.  
@@ -8,11 +8,20 @@ I build intelligent, scalable systems at the intersection of **machine learning*
 ---
 
 ## 🚀 Professional Experience
-- **Amazon (Software Engineer Intern)** – Engineered a camera-based computer vision system deployed across 11 Seattle campus buildings to monitor occupancy and wait times. Built an AWS-based data pipeline (IoT Core, Timestream, DynamoDB, EC2) and real-time React-based analytics dashboard.  
-- **UC Berkeley Space Sciences Laboratory (Machine Learning Intern)** – Developed deep learning models for gamma-ray event reconstruction in COSI’s Compton telescope ahead of its 2027 SpaceX launch.  
-- **Clerisoft Inc. (Software Engineer Intern)** – Created an AI-powered Salesforce layout recommendation engine and natural language filter agent using GPT-4 + LangChain.  
-- **CoolClimate Network (Software Engineer Intern)** – Designed emissions data pipelines and calculators for 200+ California cities, serving 50,000+ tool uses.  
-- **Gardeneur (Full-Stack Intern)** – Built a plant marketplace platform supporting 5,000+ transactions and live delivery tracking.  
+- **Amazon – Software Engineer Intern**  
+  Engineered a camera-based computer vision system deployed across 11 Seattle campus buildings to monitor occupancy and wait times. Designed and deployed an AWS-based data pipeline (IoT Core, Timestream, DynamoDB, EC2) and a React-based dashboard for real-time analytics.  
+
+- **UC Berkeley Space Sciences Laboratory – Machine Learning Intern**  
+  Developed deep learning models for gamma-ray event reconstruction in COSI’s Compton telescope ahead of its 2027 SpaceX launch, using Compton Kinematic Discrimination for enhanced imaging accuracy.  
+
+- **Clerisoft Inc. – Software Engineer Intern**  
+  Created an AI-powered Salesforce layout recommendation engine and natural language filter agent using GPT-4 + LangChain, reducing manual filtering steps by 60%.  
+
+- **CoolClimate Network – Software Engineer Intern**  
+  Designed emissions data pipelines and calculators for 200+ California cities, enabling automated GHG inventories and policy simulations used in over 50,000 public tool sessions.  
+
+- **Gardeneur – Full-Stack Intern**  
+  Built a plant marketplace platform supporting 5,000+ transactions, implementing live delivery tracking, authentication, and iOS app deployment.  
 
 ---
 
@@ -24,10 +33,6 @@ I build intelligent, scalable systems at the intersection of **machine learning*
 
 ---
 
-## 📌 Projects
-- **Codebase QA Agent** – AI-powered tool for querying GitHub repos to locate auth flows, API endpoints, and business logic using LangChain, FAISS, and GPT-4.  
-- **Gitlet** – Java-based distributed version control system with branching, merging, and SHA-1–based object storage.  
-
----
-
-📫 **Connect with me:**  
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/arjun-lak)
+[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alakhanpal@berkeley.edu)
