@@ -32,7 +32,3 @@ I build intelligent, scalable systems at the intersection of **machine learning*
 **Core Skills:** Cloud Architecture, Data Mining, ETL Pipelines, Computer Vision, Retrieval-Augmented Generation (RAG), Unix/Linux, Bash, GitHub, D3.js  
 
 ---
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/arjun-lak)
-[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alakhanpal@berkeley.edu)
