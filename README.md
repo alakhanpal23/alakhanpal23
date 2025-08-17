@@ -3,7 +3,7 @@
 🎓 **B.A. Computer Science & Applied Mathematics @ UC Berkeley** (Expected May 2027)  
 💻 **Software Engineer | AI & Cloud Enthusiast**  
 
-I build intelligent, scalable systems at the intersection of **machine learning**, **computer vision**, and **cloud infrastructure**. My work spans from real-time computer vision deployments at Amazon to deep learning pipelines for NASA-affiliated space missions, climate analytics platforms, and AI productivity tools.  
+I build intelligent, scalable systems at the intersection of **machine learning**, **computer vision**, and **cloud infrastructure**. My work spans from real-time computer vision deployments at Amazon to deep learning pipelines for SpaceX-affiliated space missions, climate analytics platforms, and AI productivity tools.  
 
 ---
 
