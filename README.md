@@ -5,6 +5,8 @@
 
 I build intelligent, scalable systems at the intersection of **machine learning**, **computer vision**, and **cloud infrastructure**. My work spans from real-time computer vision deployments at Amazon to deep learning pipelines for SpaceX-affiliated space missions, climate analytics platforms, and AI productivity tools.  
 
+[![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=alakhanpal23&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 🚀 Professional Experience
