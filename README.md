@@ -13,6 +13,7 @@ I build tools that make AI systems easier to test, debug, and use. My projects s
 - **[Again](https://github.com/alakhanpal23/again)** — A pre-alpha execution memory for coding agents that reuses work only when it can verify the result is still valid.
 - **[AWS Bedrock Multi-Agent](https://github.com/alakhanpal23/aws-bedrock-multi-agent)** — A serverless agent workflow using Step Functions, Bedrock, and OpenSearch for retrieval.
 - **[Video Integrity SDK](https://github.com/alakhanpal23/video-integrity-sdk)** — Python and FFmpeg tools for embedding video watermarks and measuring their robustness.
+- **[Diamond Grading from Video](https://github.com/alakhanpal23/Automated-Diamond-Grading-Computer-Vision-Project)** — A computer-vision research prototype with held-out shape, color, eye-clean, and clarity benchmarks plus an auditable per-stone dossier.
 
 ---
 
