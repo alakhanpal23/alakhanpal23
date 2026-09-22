@@ -1,9 +1,18 @@
 # Hi, I'm Arjun Lakhanpal 👋
 
 🎓 **B.A. Computer Science & Applied Mathematics @ UC Berkeley** (Expected May 2027)  
-💻 **Software Engineer | AI & Cloud Enthusiast**  
+💻 **Software Engineer | AI Systems & Computer Vision**
 
-I build intelligent, scalable systems at the intersection of **machine learning**, **computer vision**, and **cloud infrastructure**. My work spans from real-time computer vision deployments at Amazon to deep learning pipelines for SpaceX-affiliated space missions, climate analytics platforms, and AI productivity tools.  
+I build tools that make AI systems easier to test, debug, and use. My projects span developer infrastructure, computer vision, and cloud software. I care about clear evaluation and making it easy to inspect the evidence behind a result.
+
+---
+
+## Featured projects
+
+- **[Evidentrail](https://github.com/alakhanpal23/evidentrail)** — Compiles large diagnostic logs into compact, cited evidence briefs while preserving exact links back to source events.
+- **[Again](https://github.com/alakhanpal23/again)** — A pre-alpha execution memory for coding agents that reuses work only when it can verify the result is still valid.
+- **[AWS Bedrock Multi-Agent](https://github.com/alakhanpal23/aws-bedrock-multi-agent)** — A serverless agent workflow using Step Functions, Bedrock, and OpenSearch for retrieval.
+- **[Video Integrity SDK](https://github.com/alakhanpal23/video-integrity-sdk)** — Python and FFmpeg tools for embedding video watermarks and measuring their robustness.
 
 ---
 
