@@ -14,6 +14,7 @@ I build tools that make AI systems easier to test, debug, and use. My projects s
 - **[AWS Bedrock Multi-Agent](https://github.com/alakhanpal23/aws-bedrock-multi-agent)** — A serverless agent workflow using Step Functions, Bedrock, and OpenSearch for retrieval.
 - **[Video Integrity SDK](https://github.com/alakhanpal23/video-integrity-sdk)** — Python and FFmpeg tools for embedding video watermarks and measuring their robustness.
 - **[Diamond Grading from Video](https://github.com/alakhanpal23/Automated-Diamond-Grading-Computer-Vision-Project)** — Vision software designed for an automated diamond-grading machine: turns camera views into per-stone grade estimates and an auditable dossier.
+- **[AdWorld](https://github.com/alakhanpal23/adworld)** — Interactive ad decision simulator that turns campaign ideas into synthetic markets, simulated experiments, and decision briefs. [Watch the demo](https://youtu.be/QAL1TaGUDLU).
 
 ---
 
