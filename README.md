@@ -10,7 +10,7 @@ I build tools that make AI systems easier to test, debug, and use. My projects s
 ## Featured projects
 
 - **[Evidentrail](https://github.com/alakhanpal23/evidentrail)** — Compiles large diagnostic logs into compact, cited evidence briefs while preserving exact links back to source events.
-- **[Again](https://github.com/alakhanpal23/again)** — Verifies repository state before reusing prior command results for coding agents.
+- **[Again](https://github.com/alakhanpal23/again)** — Building a shared context layer for parallel coding agents that caches repeated tool calls to speed up development.
 - **[AWS Bedrock Multi-Agent](https://github.com/alakhanpal23/aws-bedrock-multi-agent)** — A serverless agent workflow using Step Functions, Bedrock, and OpenSearch for retrieval.
 - **[Video Integrity SDK](https://github.com/alakhanpal23/video-integrity-sdk)** — Python and FFmpeg tools for embedding video watermarks and measuring their robustness.
 - **[Diamond Grading from Video](https://github.com/alakhanpal23/Automated-Diamond-Grading-Computer-Vision-Project)** — Vision software designed for an automated diamond-grading machine: turns camera views into per-stone grade estimates and an auditable dossier.
