@@ -20,7 +20,7 @@ I build tools that make AI systems easier to test, debug, and use. My projects s
 
 ## Research paper
 
-**[Cost-Constrained LLM Routing with a Bounded Model Pool](https://github.com/alakhanpal23/Cost-Constrained-LLM-Routing-Paper/blob/main/PAPER.md)** — IND ENG 164 course paper on choosing a small model pool and assigning prompts under quality and cost constraints. Includes the Pyomo notebook, saved results, and a candid discussion of their validation limits.
+**[Cost-Aware LLM Routing for AI Coding Assistants (PDF)](https://github.com/alakhanpal23/Cost-Constrained-LLM-Routing-Paper/blob/main/paper.pdf)** — IND ENG 164 course paper on choosing a small model pool and assigning prompts under quality and cost constraints. The [repository](https://github.com/alakhanpal23/Cost-Constrained-LLM-Routing-Paper) includes the Pyomo notebook and a technical summary of the results and limitations.
 
 ---
 
