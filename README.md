@@ -18,6 +18,12 @@ I build tools that make AI systems easier to test, debug, and use. My projects s
 
 ---
 
+## Research paper
+
+**[Cost-Constrained LLM Routing with a Bounded Model Pool](https://github.com/alakhanpal23/Cost-Constrained-LLM-Routing-Paper/blob/main/PAPER.md)** — IND ENG 164 course paper on choosing a small model pool and assigning prompts under quality and cost constraints. Includes the Pyomo notebook, saved results, and a candid discussion of their validation limits.
+
+---
+
 ## 🚀 Professional Experience
 - **Amazon – Software Engineer Intern**  
   Engineered a camera-based computer vision system deployed across 11 Seattle campus buildings to monitor occupancy and wait times. Designed and deployed an AWS-based data pipeline (IoT Core, Timestream, DynamoDB, EC2) and a React-based dashboard for real-time analytics.  
