@@ -1,4 +1,4 @@
-# Hi, I'm Arjun Lakhanpal 👋
+# Arjun Lakhanpal
 
 ## Interests
 
@@ -20,9 +20,9 @@ Context and memory for agents, software that scales for real users, and making L
 
 ## Recently
 
-- **[Kara](https://www.karalabs.ai/) – CTO** — Kara raised $10 million in seed funding from Initialized, Y Combinator, and other venture partners. We're developing AI-guided manufacturing for lower-cost lab-grown diamonds aimed at data-center cooling; diamond can conduct heat roughly 5× faster than copper.
+- **Kara – CTO** — Kara raised $10 million in seed funding from Initialized, Y Combinator, and other venture partners. We're developing AI-guided manufacturing for lower-cost lab-grown diamonds aimed at data-center cooling; diamond can conduct heat roughly 5× faster than copper.
 
-- **Crow (YC W26) – Founding Product Engineer** (Aug 2025–Jan 2026) — Shipped embedded AI copilots for querying application data and running workflows, reaching $27K MRR. Built the TypeScript agent layer around MCP and OpenAPI, with authenticated tools, streaming responses, and execution tracing.
+- **Crow (YC W26) – Founding Product Engineer** — Shipped embedded AI copilots for querying application data and running workflows, reaching $27K MRR. Built the TypeScript agent layer around MCP and OpenAPI, with authenticated tools, streaming responses, and execution tracing.
 
 - **Amazon – Software Engineer Intern**  
   Four projects in one internship, including a camera-based computer vision system deployed across 11 Seattle campus buildings to monitor occupancy and wait times. Built the AWS data pipeline and a React dashboard for real-time analytics. Placed 3rd in a program-wide hackathon.
