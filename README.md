@@ -1,12 +1,8 @@
 # Hi, I'm Arjun Lakhanpal 👋
 
----
-
 ## Interests
 
 Context and memory for agents, software that scales for real users, and making LLM systems faster without losing quality.
-
----
 
 ## Featured projects
 
@@ -18,13 +14,9 @@ Context and memory for agents, software that scales for real users, and making L
 - **[Diamond Grading from Video](https://github.com/alakhanpal23/Automated-Diamond-Grading-Computer-Vision-Project)** — Vision software designed for an automated diamond-grading machine: turns camera views into per-stone grade estimates and an auditable dossier.
 - **[AdWorld](https://github.com/alakhanpal23/adworld)** — Interactive ad decision simulator that turns campaign ideas into synthetic markets, simulated experiments, and decision briefs. [Watch the demo](https://youtu.be/QAL1TaGUDLU).
 
----
-
 ## Research paper
 
 **[Cost-Aware LLM Routing for AI Coding Assistants (PDF)](https://github.com/alakhanpal23/Cost-Constrained-LLM-Routing-Paper/blob/main/paper.pdf)** — IND ENG 164 course paper on choosing a small model pool and assigning prompts under quality and cost constraints. The [repository](https://github.com/alakhanpal23/Cost-Constrained-LLM-Routing-Paper) includes the Pyomo notebook and a technical summary of the results and limitations.
-
----
 
 ## Recently
 
