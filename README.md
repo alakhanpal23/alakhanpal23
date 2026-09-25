@@ -1,14 +1,16 @@
 # Hi, I'm Arjun Lakhanpal 👋
 
-🎓 **B.A. Computer Science & Applied Mathematics @ UC Berkeley** (Expected May 2027)  
-💻 **Software Engineer | AI Systems & Computer Vision**
+---
 
-I build tools that make AI systems easier to test, debug, and use. My projects span developer infrastructure, computer vision, and cloud software. I care about clear evaluation and making it easy to inspect the evidence behind a result.
+## Interests
+
+Context and memory for agents, software that scales for real users, and making LLM systems faster without losing quality.
 
 ---
 
 ## Featured projects
 
+- **Autonomous On-Call Engineer** — AI on-call system that combines alerts, logs, and deployment history to diagnose incidents and validate fixes in isolated workers; onboarded 9 startups. [Watch the demo](https://youtu.be/PJVtMiUeoT8).
 - **[Evidentrail](https://github.com/alakhanpal23/evidentrail)** — Compiles large diagnostic logs into compact, cited evidence briefs while preserving exact links back to source events.
 - **[Again](https://github.com/alakhanpal23/again)** — Building a shared context layer for parallel coding agents that caches repeated tool calls to speed up development.
 - **[AWS Bedrock Multi-Agent](https://github.com/alakhanpal23/aws-bedrock-multi-agent)** — A serverless agent workflow using Step Functions, Bedrock, and OpenSearch for retrieval.
@@ -24,9 +26,14 @@ I build tools that make AI systems easier to test, debug, and use. My projects s
 
 ---
 
-## 🚀 Professional Experience
+## Recently
+
+- **[Kara](https://www.karalabs.ai/) – CTO** — Kara raised $10 million in seed funding from Initialized, Y Combinator, and other venture partners. We're developing AI-guided manufacturing for lower-cost lab-grown diamonds aimed at data-center cooling; diamond can conduct heat roughly 5× faster than copper.
+
+- **Crow (YC W26) – Founding Product Engineer** (Aug 2025–Jan 2026) — Shipped embedded AI copilots for querying application data and running workflows, reaching $27K MRR. Built the TypeScript agent layer around MCP and OpenAPI, with authenticated tools, streaming responses, and execution tracing.
+
 - **Amazon – Software Engineer Intern**  
-  Engineered a camera-based computer vision system deployed across 11 Seattle campus buildings to monitor occupancy and wait times. Designed and deployed an AWS-based data pipeline (IoT Core, Timestream, DynamoDB, EC2) and a React-based dashboard for real-time analytics.  
+  Four projects in one internship, including a camera-based computer vision system deployed across 11 Seattle campus buildings to monitor occupancy and wait times. Built the AWS data pipeline and a React dashboard for real-time analytics. Placed 3rd in a program-wide hackathon.
 
 - **UC Berkeley Space Sciences Laboratory – Machine Learning Intern**  
   Developed deep learning models for gamma-ray event reconstruction in COSI’s Compton telescope ahead of its 2027 SpaceX launch, using Compton Kinematic Discrimination for enhanced imaging accuracy.  
@@ -39,13 +46,3 @@ I build tools that make AI systems easier to test, debug, and use. My projects s
 
 - **Gardeneur – Full-Stack Intern**  
   Built a plant marketplace platform supporting 5,000+ transactions, implementing live delivery tracking, authentication, and iOS app deployment.  
-
----
-
-## 🛠 Technical Skills
-**Languages:** Java, Python, C/C++, C#, SQL, JavaScript, HTML/CSS, TypeScript, R, Scheme, React Native, SwiftUI  
-**Frameworks & Tools:** AWS IoT Core, AWS Lambda, API Gateway, Unity, Flask, Node.js, React, Angular, LangChain, Pandas  
-**Databases & Platforms:** Amazon Redshift, PostgreSQL, Firebase, DynamoDB  
-**Core Skills:** Cloud Architecture, Data Mining, ETL Pipelines, Computer Vision, Retrieval-Augmented Generation (RAG), Unix/Linux, Bash, GitHub, D3.js  
-
----
